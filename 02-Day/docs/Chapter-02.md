@@ -42,7 +42,7 @@ x = 100
 - Asterisk is multiplication.
 - Exponentiation (raise to power) looks different than in math.
 
-![Expressions](./assets/operators.png)
+![Expressions](../assets/operators.png)
 
 ### Order of Evaluation
 

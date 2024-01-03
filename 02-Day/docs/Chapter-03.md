@@ -2,7 +2,7 @@
 
 ## [Conditional Steps](./py4e/conditionals.py)
 
-![Conditional Steps](./assets/conditional-steps.png)
+![Conditional Steps](../assets/conditional-steps.png)
 
 ## Comparison Operators
 
@@ -11,7 +11,7 @@
 - Comparison operators look at variables but do not change the variables.
 - **Remember: `=` is used for assignment.**
 
-![Comparison Operators](./assets/comarison-operators.png)
+![Comparison Operators](../assets/comarison-operators.png)
 
 ### Indentation
 

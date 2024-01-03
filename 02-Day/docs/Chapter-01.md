@@ -3,7 +3,7 @@
 ## Chapter 01 - Why Program? 
 
 ### Hardware Architecture
-![Generic Computer](./assets/generic-computer.png)
+![Generic Computer](../assets/generic-computer.png)
 
 ## Definitions
 
@@ -77,8 +77,8 @@ print(x)    // Print statement
 
 ### Conditional Steps:
 
-![Conditional Steps](./assets/conditional-steps.png)
+![Conditional Steps](../assets/conditional-steps.png)
 
 ### Repeated Steps:
 
-![Repeated Steps](./assets/repeated-steps.png)
+![Repeated Steps](../assets/repeated-steps.png)
